@@ -60,5 +60,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=120&section=footer&text=%20of%20スクロールの終わり&fontColor=FFFFFF&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=120&section=footer&text=%20%20スクロールの終わり&fontColor=FFFFFF&fontSize=30" />
 </p>
