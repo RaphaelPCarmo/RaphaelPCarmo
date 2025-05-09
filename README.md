@@ -13,8 +13,7 @@
 ## 👋 Sobre mim
 
 <p align="justify">
-Boas-vindas ao meu repositório pessoal! Sou apaixonado por tecnologia, desenvolvimento backend e por transformar ideias em projetos reais com Arduino, C++ e lógica de programação.
-</p>
+Boas-vindas ao meu repositório pessoal! Sou apaixonado por tecnologia, desenvolvimento backend e por transformar ideias em projetos reais. </p>
 
 ---
 
