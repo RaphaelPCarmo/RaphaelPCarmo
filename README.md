@@ -1,17 +1,12 @@
-<img src="https://raw.githubusercontent.com/khoa083/khoa083/main/dragon.gif" width="100%" alt="Banner Dragon"/>
-
 <h1 align="center">👋 Olá, eu sou Raphael Perim do Carmo!</h1>
 
 <p align="center">
-  🎓 Estudante de Ciência da Computação • 💻 Desenvolvedor em crescimento • 🚀 Focado em Backend e soluções completas <br>
-  🐉 Apaixonado por códigos e dragões!
+  🎓 <strong>Estudante de Ciência da Computação</strong> • 💻 <strong>Desenvolvedor em crescimento</strong> • 🚀 <strong>Focado em Backend e soluções completas</strong>
 </p>
 
----
-
-## 🐲 Sobre mim:
-> ⚔️ "Codificando como um dragão: forte, resiliente e sempre pronto para novos desafios." <br>
-> 🚀 Buscando evolução constante e crescimento profissional no mundo da tecnologia!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:9370DB&height=120&section=header"/>
+</p>
 
 ---
 
@@ -23,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
 </p>
 
 ---
@@ -34,16 +29,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelPCarmo&layout=compact&langs_count=7&theme=radical" alt="raphael langs" width="350"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RaphaelPCarmo&theme=radical&border_radius=10" alt="streak"/>
-</p>
-
 ---
 
 ## 🌱 Atualmente aprendendo:
-- ⚡ Estruturas de Dados & Algoritmos
-- 🔥 Boas práticas de programação
-- 🐉 Desenvolvimento Web avançado
+- 🌐 Estruturas de Dados & Algoritmos
+- 🧩 Boas práticas de programação
+- 💪 Desenvolvimento Web avançado
 
 ---
 
@@ -60,12 +51,14 @@
 ---
 
 ## 🎯 Objetivo:
-> 🐲 Contribuir com projetos desafiadores e crescer como desenvolvedor, com foco em soluções de backend e sistemas robustos!
+> 🚀 Contribuir com projetos desafiadores e crescer como desenvolvedor, com foco em soluções de backend e sistemas robustos.
 
 ---
 
 <p align="center">
-  ⭐ <strong>Dê uma olhada nos meus repositórios e junte-se à minha jornada de crescimento!</strong> ⭐
+  ⭐ <strong>Dê uma olhada nos meus repositórios e fique à vontade para entrar em contato!</strong> ⭐
 </p>
 
-<img src="https://raw.githubusercontent.com/khoa083/khoa083/main/dragon.gif" width="100%" alt="Dragon Footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9370DB,100:6e40c9&height=120&section=footer"/>
+</p>
