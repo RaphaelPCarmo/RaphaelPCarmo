@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/V5Z3s5P.gif" width="100%" alt="Banner Dragon"/>
+<img src="https://raw.githubusercontent.com/khoa083/khoa083/main/dragon.gif" width="100%" alt="Banner Dragon"/>
 
 <h1 align="center">👋 Olá, eu sou Raphael Perim do Carmo!</h1>
 
@@ -68,4 +68,4 @@
   ⭐ <strong>Dê uma olhada nos meus repositórios e junte-se à minha jornada de crescimento!</strong> ⭐
 </p>
 
-<img src="https://i.imgur.com/YWdP5Eg.gif" width="100%" alt="Dragon Footer"/>
+<img src="https://raw.githubusercontent.com/khoa083/khoa083/main/dragon.gif" width="100%" alt="Dragon Footer"/>
