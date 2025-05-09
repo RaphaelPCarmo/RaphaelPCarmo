@@ -47,17 +47,17 @@
 ---
 
 ## 📫 Contacts
-<p align="center">
-  <a href="https://www.linkedin.com/in/raphael-perim-do-carmo-512166315" target="_blank">
+<div align="center">
+  <a href="https://www.linkedin.com/in/raphael-perim-do-carmo-512166315">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/RaphaelPCarmo" target="_blank">
+  <a href="https://github.com/RaphaelPCarmo">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:raphael.perim123@gmail.com" target="_blank">
+  <a href="mailto:raphael.perim123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
+</div>
 
 
 ---
