@@ -1,16 +1,16 @@
-<h1 align="center">👋 Olá, eu sou Raphael Perim do Carmo!</h1>
+<h1 align="center">⚔️  Olá, eu sou Raphael Perim do Carmo!  ⚔️</h1>
 
 <p align="center">
   🎓 <strong>Estudante de Ciência da Computação</strong> • 💻 <strong>Desenvolvedor em crescimento</strong> • 🚀 <strong>Focado em Backend e soluções completas</strong>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=120&section=header&text=Samurai%20Code&fontColor=FFFFFF&fontSize=40&fontAlignY=35" />
 </p>
 
 ---
 
-## 🚀 Tecnologias & Linguagens que uso e gosto:
+## 🐉 Habilidades & Tecnologias (Minhas Lâminas):
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/> 
@@ -23,22 +23,22 @@
 
 ---
 
-## 📈 Meu Dashboard GitHub:
+## 📈 Meu Caminho do Guerreiro (GitHub Stats):
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelPCarmo&show_icons=true&theme=dark&locale=pt-br" alt="raphael stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelPCarmo&layout=compact&langs_count=7&theme=dark" alt="raphael langs" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelPCarmo&show_icons=true&theme=dark&locale=pt-br&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelPCarmo&layout=compact&langs_count=7&theme=dark&title_color=FF0000&text_color=FFFFFF&bg_color=000000" width="350"/>
 </p>
 
 ---
 
-## 🌱 Atualmente aprendendo:
-- 🌐 Estruturas de Dados & Algoritmos
+## 🌱 Aprimorando Meu Código (Disciplina Diária):
+- 🐛 Estruturas de Dados & Algoritmos
 - 🧩 Boas práticas de programação
 - 💪 Desenvolvimento Web avançado
 
 ---
 
-## 📫 Conecte-se comigo:
+## 📫 Encontre-me no Dojo (Contatos):
 <p align="center">
   <a href="https://www.linkedin.com/in/raphael-perim-do-carmo-512166315" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -50,15 +50,15 @@
 
 ---
 
-## 🎯 Objetivo:
-> 🚀 Contribuir com projetos desafiadores e crescer como desenvolvedor, com foco em soluções de backend e sistemas robustos.
+## 🎯 Meu Código de Honra:
+> ⚔️ Contribuir com projetos desafiadores e crescer como desenvolvedor, com foco em soluções de backend e sistemas robustos. Como um samurai, aprimoro meu código e enfrento desafios com disciplina e paixão.
 
 ---
 
 <p align="center">
-  ⭐ <strong>Dê uma olhada nos meus repositórios e fique à vontade para entrar em contato!</strong> ⭐
+  ⭐ <strong>Explore meus repositórios e venha batalhar ao meu lado!</strong> ⭐
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=120&section=footer&text=End%20of%20Scroll&fontColor=FFFFFF&fontSize=30" />
 </p>
