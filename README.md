@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=120&section=header&text=Samurai%20Code&fontColor=FFFFFF&fontSize=40&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=120&section=header&text=プログラミング%20&fontColor=FFFFFF&fontSize=40&fontAlignY=35" />
 </p>
 
 ---
