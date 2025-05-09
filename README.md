@@ -1,69 +1,21 @@
-<h1 align="center">⚔️ Hello, I am Raphael Perim do Carmo! ⚔️</h1>
+⚔️ Olá! Meu nome é Raphael Perim do Carmo!
+<p>Boas-vindas ao meu repositório pessoal! Sou graduando em Ciência da Computação, entusiasta de tecnologia e apaixonado por desenvolver soluções completas. Meus maiores interesses envolvem programação, eletrônica com Arduino e desenvolvimento backend.</p>
+🚀 Habilidades & Interesses
+<b>C e C++:</b> Desenvolvimento de projetos acadêmicos com foco em lógica, estrutura de dados e sistemas embarcados.
 
-<p align="center">
-  🎓 <strong>Computer Science Student</strong> • 💻 <strong>Growing Developer</strong> • 🚀 <strong>Focused on Backend and Complete Solutions</strong>
-</p>
+<b>Arduino:</b> Projetos práticos com sensores, LEDs, servo motores e displays.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:000000&height=120&section=header&text=Programming%20&fontColor=FFFFFF&fontSize=40&fontAlignY=35" />
-</p>
+<b>Desenvolvimento Web:</b> Experiência com HTML, CSS, JavaScript e PHP.
 
----
+<b>Banco de Dados:</b> Manipulação e consultas com MySQL.
 
-## 🐉 Skills & Technologies:
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
-</p>
+<b>Backend:</b> Interesse crescente em soluções robustas e escaláveis.
 
----
+<b>Projetos Acadêmicos:</b> Desenvolvimento de sistemas como maquetes inteligentes e interfaces com display de 7 segmentos.
 
-<strong> 📈 Performance (GitHub Stats): </strong>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelPCarmo&show_icons=true&theme=dark&locale=en&title_color=6a0dad&icon_color=6a0dad&text_color=FFFFFF&bg_color=000000" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelPCarmo&layout=compact&langs_count=7&theme=dark&title_color=6a0dad&text_color=FFFFFF&bg_color=000000" width="350"/>
-</p>
-
----
-
-<strong> 🌱 Sharpening My Code (Daily Discipline):</strong>
-- 🐛 Data Structures & Algorithms
-- 🧩 Best Programming Practices
-- 💪 Advanced Web Development
-
----
-
-## 📫 Reach me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/raphael-perim-do-carmo-512166315" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/RaphaelPCarmo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:raphael.perim123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-raphael.perim123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
-
----
-
-<strong> 🎯 My Code of Honor:</strong>
-> ⚔️ To contribute to challenging projects and grow as a developer, focusing on backend solutions and robust systems.
-
----
-
-<p align="center">
-  ⭐ <strong>Explore my repositories and come battle by my side!</strong> ⭐
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6a0dad&height=120&section=footer&text=%20%20End%20of%20Scroll&fontColor=FFFFFF&fontSize=30" />
-</p>
+📊 Estatísticas GitHub
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RaphaelPCarmo&show_icons=true&include_all_commits=true&count_private=true&theme=dark" height="150" alt="GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphaelPCarmo&layout=compact&theme=dark" height="150" alt="Top Languages"/> </div>
+🛠️ Tecnologias que uso
+<div align="center"> <img src="https://skillicons.dev/icons?i=cpp,c,arduino,html,css,js,php,mysql,vscode&theme=dark" alt="skills" /> </div>
+📫 Entre em contato
+<p align="left"> <a href="https://www.linkedin.com/in/raphael-perim-do-carmo-512166315" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/RaphaelPCarmo" target="_blank"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="mailto:raphael.perim123@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-raphael.perim123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
