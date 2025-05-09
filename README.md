@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:9370DB&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=120&section=header"/>
 </p>
 
 ---
@@ -25,8 +25,8 @@
 
 ## 📈 Meu Dashboard GitHub:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelPCarmo&show_icons=true&theme=radical&locale=pt-br" alt="raphael stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelPCarmo&layout=compact&langs_count=7&theme=radical" alt="raphael langs" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelPCarmo&show_icons=true&theme=dark&locale=pt-br" alt="raphael stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelPCarmo&layout=compact&langs_count=7&theme=dark" alt="raphael langs" width="350"/>
 </p>
 
 ---
@@ -41,10 +41,10 @@
 ## 📫 Conecte-se comigo:
 <p align="center">
   <a href="https://www.linkedin.com/in/raphael-perim-do-carmo-512166315" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/RaphaelPCarmo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -60,5 +60,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9370DB,100:6e40c9&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=120&section=footer"/>
 </p>
