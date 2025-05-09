@@ -23,7 +23,7 @@
 
 ---
 
-## 📈 Meu Caminho do Guerreiro (GitHub Stats):
+<strong> 📈 パフォーマンス (GitHub Stats): </strong>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RaphaelPCarmo&show_icons=true&theme=dark&locale=pt-br&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelPCarmo&layout=compact&langs_count=7&theme=dark&title_color=FF0000&text_color=FFFFFF&bg_color=000000" width="350"/>
@@ -31,14 +31,14 @@
 
 ---
 
-## 🌱 Aprimorando Meu Código (Disciplina Diária):
+<strong> 🌱 Aprimorando Meu Código (Disciplina Diária):</strong>
 - 🐛 Estruturas de Dados & Algoritmos
 - 🧩 Boas práticas de programação
 - 💪 Desenvolvimento Web avançado
 
 ---
 
-## 📫 Encontre-me no Dojo (Contatos):
+<strong> 📫 Contatos (Contatos):</strong>
 <p align="center">
   <a href="https://www.linkedin.com/in/raphael-perim-do-carmo-512166315" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -50,8 +50,8 @@
 
 ---
 
-## 🎯 Meu Código de Honra:
-> ⚔️ Contribuir com projetos desafiadores e crescer como desenvolvedor, com foco em soluções de backend e sistemas robustos. Como um samurai, aprimoro meu código e enfrento desafios com disciplina e paixão.
+<strong> 🎯 Meu Código de Honra:</strong>
+> ⚔️ Contribuir com projetos desafiadores e crescer como desenvolvedor, com foco em soluções de backend e sistemas robustos.
 
 ---
 
@@ -60,5 +60,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=120&section=footer&text=End%20of%20Scroll&fontColor=FFFFFF&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=120&section=footer&text=%20of%20スクロールの終わり&fontColor=FFFFFF&fontSize=30" />
 </p>
