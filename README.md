@@ -40,11 +40,11 @@
 
 <strong> 📫 Contacts:</strong>
 <p align="center">
-  <a href="https://www.linkedin.com/in/raphael-perim-do-carmo-512166315" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/raphael-perim-do-carmo-512166315" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/RaphaelPCarmo" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/RaphaelPCarmo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </p>
 
