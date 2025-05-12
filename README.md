@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ Hello, I am Raphael Perim do Carmo! ⚔️</h1>
+<h1 align="center"> ⚔I am Raphael Perim do Carmo! ⚔ </h1>
 
 <p align="center">
   🎓 <strong>Computer Science Student</strong> • 💻 <strong>Growing Developer</strong> • 🚀 <strong>Focused on Backend and Complete Solutions</strong>
