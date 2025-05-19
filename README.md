@@ -15,13 +15,23 @@ Boas-vindas ao meu repositório pessoal! Sou apaixonado por tecnologia, desenvol
 
 ## 🐉 Skills & Technologies
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/> 
-  <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="50" height="50" alt="Machine Learning"/>
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+  
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+  
+  <!-- SQL (MySQL icon usado como exemplo) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL"/>
+  
+  <!-- Inteligência Artificial / Ciência de Dados (ícone genérico de IA) -->
+  <img src="https://cdn-icons-png.flaticon.com/512/188/188987.png" width="50" height="50" alt="Artificial Intelligence"/>
+  
+  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+  
+  <!-- Machine Learning (ícone de robô genérico) -->
+  <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="50" height="50" alt="Machine Learning"/>
 </p>
 
 ## 📈 Performance (GitHub Stats)
