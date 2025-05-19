@@ -11,7 +11,8 @@
 ## 👋 Sobre mim
 
 <p align="justify">
-Boas-vindas ao meu repositório pessoal! Sou apaixonado por tecnologia, desenvolvimento backend e por transformar ideias em projetos reais. </p>
+Tenho experiência com linguagens como Java, Python e JavaScript, e estou focado em expandir meus conhecimentos em Inteligência Artificial e Machine Learning para criar soluções inovadoras com dados.
+Adoro aprender, programar e contribuir com projetos que fazem a diferença. </p>
 
 ## 🐉 Skills & Technologies
 <p align="center">
@@ -29,11 +30,11 @@ Boas-vindas ao meu repositório pessoal! Sou apaixonado por tecnologia, desenvol
 </p>
 
 ## 🌱 Sharpening My Code (Daily Discipline)
-- 🐛 Data Structures & Algorithms  
-- 🧩 Best Programming Practices  
-- 💪 Advanced Web Development  
-- 🧠 Projetos com Arduino e lógica embarcada  
-- 🔧 Integração entre hardware e software  
+| Linguagens      | Áreas                |
+|-----------------|----------------------|
+| 💻 Java         | 🧠 IA & Ciência de Dados |
+| 🌐 JavaScript   | 🐍 Python             |
+| 🗄️ SQL          | 📊 Machine Learning   |
 
 ## 📫 Let's Connect!
 
