@@ -15,23 +15,12 @@ Boas-vindas ao meu repositório pessoal! Sou apaixonado por tecnologia, desenvol
 
 ## 🐉 Skills & Technologies
 <p align="center">
-  <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
-  
-  <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-  
-  <!-- SQL (MySQL icon usado como exemplo) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL"/>
-  
-  <!-- Inteligência Artificial / Ciência de Dados (ícone genérico de IA) -->
-  <img src="https://cdn-icons-png.flaticon.com/512/188/188987.png" width="50" height="50" alt="Artificial Intelligence"/>
-  
-  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  
-  <!-- Machine Learning (ícone de robô genérico) -->
-  <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="50" height="50" alt="Machine Learning"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch"/>
 </p>
 
 ## 📈 Performance (GitHub Stats)
