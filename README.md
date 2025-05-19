@@ -1,12 +1,13 @@
-<h1 align="center"> I am Raphael Perim do Carmo </h1>
+<h1 align="center"> </h1>
 
 <p align="center">
   🎓 <strong>Computer Science Student</strong> • 💻 <strong>Growing Developer</strong> • 🚀 <strong>Focused on Backend and Complete Solutions</strong>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:000000&height=120&section=header&text=Programming%20&fontColor=FFFFFF&fontSize=40&fontAlignY=35" alt="Programming Banner"/>
+  🎓 <strong>Computer Science Student</strong> • 💻 <strong>Growing Developer</strong> • 🚀 <strong>Focused on Backend and Complete Solutions</strong> • 🤖 <strong>AI & Machine Learning Enthusiast</strong>
 </p>
+
 
 ## 👋 Sobre mim
 
