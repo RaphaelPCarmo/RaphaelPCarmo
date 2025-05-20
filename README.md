@@ -26,7 +26,7 @@ Adoro aprender, programar e contribuir com projetos que fazem a diferença. </p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelPCarmo&layout=compact&langs_count=7&theme=dark&title_color=6a0dad&text_color=FFFFFF&bg_color=000000" width="350" alt="Most Used Languages"/>
 </p>
 
-## 🌱 Sharpening My Code (Daily Discipline)
+## 🌱 My Studies (Diary)
 | Linguagens      | Áreas                |
 |-----------------|----------------------|
 | 💻 Java         | 🧠 IA & Ciência de Dados |
