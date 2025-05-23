@@ -61,7 +61,6 @@ Adoro aprender, programar e contribuir com projetos que fazem a diferença. </p>
 > ⚔️ To contribute to challenging projects and grow as a developer, focusing on backend solutions and robust systems.
 
 <p align="center">
-  ⭐ <strong>Explore my repositories and come battle by my side!</strong> ⭐
 </p>
 
 <p align="center">
