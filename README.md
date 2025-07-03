@@ -52,9 +52,10 @@ Adoro aprender, programar e contribuir com projetos que fazem a diferença. </p>
   </tr>
 </table>
 
-
-<p align="center">
+  <p align="center">
+  <em>🔥 Obrigado por visitar meu perfil! Me mande uma mensagem e vamos trocar ideias sobre programação, dados e inovação. 🔥</em>
 </p>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cbe84c17-3cac-479d-8ebe-0dcc3ffeabda" alt="Dragão estilizado" width="180"/>
