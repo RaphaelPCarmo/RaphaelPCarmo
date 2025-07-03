@@ -1,9 +1,8 @@
-<h1 align="center"> </h1>
-
 <p align="center">
-  🎓 <strong>Computer Science Student</strong> • 💻 <strong>Growing Developer</strong> • 🚀 <strong>Focused on Backend and Complete Solutions</strong> • 🤖 <strong>AI & Machine Learning Enthusiast</strong>
+  <img src="https://github.com/user-attachments/assets/71845119-ed6e-4d08-be50-33fc162d6929" alt="Dragão estilizado" width="250"/>
 </p>
 
+<h1 align="center">🐉 Raphael Perim do Carmo</h1>
 
 ## 👋 Sobre mim
 
