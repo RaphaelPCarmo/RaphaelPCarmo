@@ -2,8 +2,6 @@
   <img src="https://github.com/user-attachments/assets/71845119-ed6e-4d08-be50-33fc162d6929" alt="Dragão estilizado" width="250"/>
 </p>
 
-<h1 align="center">🐉 Raphael Perim do Carmo</h1>
-
 ## 👋 Sobre mim
 
 <p align="justify">
