@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cbe84c17-3cac-479d-8ebe-0dcc3ffeabda" alt="Dragão estilizado" width="180"/>
 </p>
----
 ## 👋 Sobre mim
-
 <p align="justify">
 Tenho experiência com linguagens como Java, Python e JavaScript, e estou focado em expandir meus conhecimentos em Inteligência Artificial e Machine Learning para criar soluções inovadoras com dados.
 Adoro aprender, programar e contribuir com projetos que fazem a diferença. </p>
@@ -53,7 +51,7 @@ Adoro aprender, programar e contribuir com projetos que fazem a diferença. </p>
 </table>
 
   <p align="center">
-  <em>🔥 Obrigado por visitar meu perfil! Me mande uma mensagem e vamos trocar ideias sobre programação, dados e inovação. 🔥</em>
+  <em>🔥 Obrigado por visitar meu perfil!🔥</em>
 </p>
 
 
