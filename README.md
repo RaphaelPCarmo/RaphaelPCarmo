@@ -63,3 +63,6 @@ Adoro aprender, programar e contribuir com projetos que fazem a diferença. </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6a0dad&height=120&section=footer&text=%20%20End%20of%20Scroll&fontColor=FFFFFF&fontSize=30" alt="Footer Banner"/>
 </p>
+
+<img src="images/dragon.png" alt="Dragão estilizado" width="300">
+
