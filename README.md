@@ -61,9 +61,8 @@ Adoro aprender, programar e contribuir com projetos que fazem a diferença. </p>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6a0dad&height=120&section=footer&text=%20%20End%20of%20Scroll&fontColor=FFFFFF&fontSize=30" alt="Footer Banner"/>
+  ![Image](https://github.com/user-attachments/assets/71845119-ed6e-4d08-be50-33fc162d6929)
 </p>
 
-![Image](https://github.com/user-attachments/assets/71845119-ed6e-4d08-be50-33fc162d6929)
 
 
