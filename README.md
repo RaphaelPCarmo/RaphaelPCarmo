@@ -1,8 +1,12 @@
+<h1 align="center"> </h1>
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cbe84c17-3cac-479d-8ebe-0dcc3ffeabda" alt="Dragão estilizado" width="180"/>
+  🎓 <strong>Computer Science Student</strong> • 💻 <strong>Growing Developer</strong> • 🚀 <strong>Focused on Backend and Complete Solutions</strong> • 🤖 <strong>AI & Machine Learning Enthusiast</strong>
 </p>
 
+
 ## 👋 Sobre mim
+
 <p align="justify">
 Tenho experiência com linguagens como Java, Python e JavaScript, e estou focado em expandir meus conhecimentos em Inteligência Artificial e Machine Learning para criar soluções inovadoras com dados.
 Adoro aprender, programar e contribuir com projetos que fazem a diferença. </p>
@@ -51,10 +55,9 @@ Adoro aprender, programar e contribuir com projetos que fazem a diferença. </p>
   </tr>
 </table>
 
-  <p align="center">
-  <em>🔥 Obrigado por visitar meu perfil!🔥</em>
-</p>
 
+<p align="center">
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cbe84c17-3cac-479d-8ebe-0dcc3ffeabda" alt="Dragão estilizado" width="180"/>
