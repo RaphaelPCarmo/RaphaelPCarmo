@@ -57,9 +57,6 @@ Adoro aprender, programar e contribuir com projetos que fazem a diferença. </p>
 
 📬 **Seja bem-vindo(a)! Me mande uma mensagem e vamos trocar ideias sobre programação, tecnologia e inovação!** 🚀
 
-## 🎯 My Code of Honor
-> ⚔️ To contribute to challenging projects and grow as a developer, focusing on backend solutions and robust systems.
-
 <p align="center">
 </p>
 
