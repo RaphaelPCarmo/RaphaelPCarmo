@@ -61,8 +61,7 @@ Adoro aprender, programar e contribuir com projetos que fazem a diferença. </p>
 </p>
 
 <p align="center">
-  ![Image](https://github.com/user-attachments/assets/71845119-ed6e-4d08-be50-33fc162d6929)
+  <img src="https://github.com/user-attachments/assets/71845119-ed6e-4d08-be50-33fc162d6929" alt="Dragão estilizado" width="300"/>
 </p>
-
 
 
