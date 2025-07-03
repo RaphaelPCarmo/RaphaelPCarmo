@@ -22,8 +22,8 @@ Adoro aprender, programar e contribuir com projetos que fazem a diferença. </p>
 
 ## 📈 Performance (GitHub Stats)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelPCarmo&show_icons=true&theme=dark&locale=en&title_color=6a0dad&icon_color=6a0dad&text_color=FFFFFF&bg_color=000000" width="450" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelPCarmo&layout=compact&langs_count=7&theme=dark&title_color=6a0dad&text_color=FFFFFF&bg_color=000000" width="350" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelPCarmo&show_icons=true&theme=dark&locale=en&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000" width="450" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelPCarmo&layout=compact&langs_count=7&theme=dark&title_color=FF0000&text_color=FFFFFF&bg_color=000000" width="350" alt="Most Used Languages"/>
 </p>
 
 ## 🌱 My Studies (Diary)
