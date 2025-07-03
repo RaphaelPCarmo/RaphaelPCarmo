@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cbe84c17-3cac-479d-8ebe-0dcc3ffeabda" alt="Dragão estilizado" width="180"/>
 </p>
-
+---
 ## 👋 Sobre mim
 
 <p align="justify">
