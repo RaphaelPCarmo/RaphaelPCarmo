@@ -30,9 +30,9 @@ Adoro aprender, programar e contribuir com projetos que fazem a diferença. </p>
 | Linguagens      | Áreas                |
 |-----------------|----------------------|
 | 💻 Java         | 🧠 IA & Ciência de Dados |
-| 🌐 JavaScript   | 🐍 Python             |
-| 🗄️ SQL          | 📊 Machine Learning   |
-
+| 🌐 JavaScript   | 🧑‍💻 Engenheiro de Software |
+| 🗄️ SQL          | 📊 Machine Learning |
+| 📐 C/C++        | 🧮 Algoritmos e Estruturas de Dados|
 ## 📫 Let's Connect!
 
 <table align="center">
