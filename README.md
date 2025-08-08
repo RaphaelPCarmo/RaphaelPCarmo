@@ -29,8 +29,8 @@ Adoro aprender, programar e contribuir com projetos que fazem a diferença. </p>
 ## 🌱 My Studies (Diary)
 | Linguagens      | Áreas                |
 |-----------------|----------------------|
-| 💻 Java         | 🧠 IA & Ciência de Dados |
-| 🌐 JavaScript   | 🧑‍💻 Engenheiro de Software |
+| ☕ Java         | 🧠 IA & Ciência de Dados |
+| 🌐 JavaScript   | 💻 Engenheiro de Software |
 | 🗄️ SQL          | 📊 Machine Learning |
 | 📐 C/C++        | 🧮 Algoritmos e Estruturas de Dados|
 ## 📫 Let's Connect!
