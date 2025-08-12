@@ -31,7 +31,7 @@ Adoro aprender, programar e contribuir com projetos que fazem a diferença. </p>
 |-----------------|----------------------|
 | ☕ Java         | 🧠 IA & Ciência de Dados |
 | 🌐 JavaScript   | 💻 Engenheiro de Software |
-| 🗄️ SQL          | 📊 Machine Learning |
+| 🗄️ MySQL          | 📊 Machine Learning |
 | 📐 C/C++        | 🧮 Algoritmos e Estruturas de Dados|
 ## 📫 Let's Connect!
 
