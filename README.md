@@ -8,7 +8,7 @@
 ## 👋 Sobre mim
 
 <p align="justify">
-Tenho experiência com linguagens como Java, Python e JavaScript, e estou focado em expandir meus conhecimentos em Inteligência Artificial e Machine Learning para criar soluções inovadoras com dados.
+Estudante de Ciência da Computação, em busca da primeira oportunidade como Desenvolvedor de Software Júnior. Já desenvolvi projetos acadêmicos e pessoais aplicando Java, C++, Android Studio e MySQL, com foco em backend, orientação a objetos e boas práticas de código.
 Adoro aprender, programar e contribuir com projetos que fazem a diferença. </p>
 
 ## 🐉 Skills & Technologies
@@ -17,7 +17,7 @@ Adoro aprender, programar e contribuir com projetos que fazem a diferença. </p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=appveyor" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ## 📈 Performance (GitHub Stats)
