@@ -1,68 +1,60 @@
-<h1 align="center">👨‍💻 Raphael Perim do Carmo</h1>
+<h1 align="center">Raphael Perim do Carmo</h1>
 
 <p align="center">
-  ☕ <strong>Backend Developer</strong> • ⚙️ <strong>Java | C++ | .NET</strong> • 💾 <strong>SQL | Spring Boot | REST APIs</strong>  
+  🎓 <strong>Computer Science Student</strong> • 💻 <strong>Growing Backend Developer</strong> • 🚀 <strong>Focused on Backend & Complete Solutions</strong> • 🤖 <strong>AI & Machine Learning Enthusiast</strong>
 </p>
-
----
 
 ## 👋 Sobre mim
 
-Sou estudante de **Ciência da Computação** e desenvolvedor back-end em formação, com experiência em **Java, C++ e .NET**.  
-Trabalho com **orientação a objetos, CRUD, integração com banco de dados e boas práticas de código**.  
-Busco oportunidades como **freelancer** e **desenvolvedor júnior**, aplicando soluções eficientes e limpas no back-end.  
+<p align="justify">
+Estudante de Ciência da Computação, em busca da primeira oportunidade como **Desenvolvedor de Software Júnior** ou **freelancer**. Desenvolvi projetos acadêmicos e pessoais aplicando **Java, C++, Android Studio e MySQL**, com foco em backend, orientação a objetos e boas práticas de código.  
+Sou apaixonado por aprender, programar e contribuir com projetos que gerem impacto.
+</p>
 
----
-
-## 🧠 Skills & Tecnologias
-
+## 🐉 Skills & Tecnologias
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-F05032?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=appveyor" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
----
-
-## 📈 Estatísticas
-
+## 📈 Performance (GitHub Stats)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelPCarmo&show_icons=true&theme=dark&locale=pt-br" width="450" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelPCarmo&layout=compact&theme=dark&locale=pt-br" width="350" alt="Linguagens Mais Usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelPCarmo&show_icons=true&theme=dark&locale=pt-br&title_color=FF6F61&icon_color=ED8B00&text_color=FFFFFF&bg_color=0D1117" width="450" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelPCarmo&layout=compact&langs_count=7&theme=dark&title_color=FF6F61&text_color=FFFFFF&bg_color=0D1117" width="350" alt="Most Used Languages"/>
 </p>
 
----
+## 🌱 Estudos Atuais
+| Linguagens      | Áreas                |
+|-----------------|----------------------|
+| ☕ Java         | 🧠 IA & Ciência de Dados |
+| 🌐 JavaScript   | 💻 Engenharia de Software |
+| 🗄️ MySQL       | 📊 Machine Learning |
+| 📐 C/C++        | 🧮 Algoritmos e Estruturas de Dados |
 
-## 🌱 Em aprendizado constante
-
-| Linguagens | Foco Atual |
-|-------------|-------------|
-| ☕ Java | 🔧 Back-end & APIs REST |
-| 📐 C++ | ⚙️ Estruturas de Dados |
-| 💾 SQL | 🧩 Integração com sistemas |
-| 🧠 .NET | 🚀 Desenvolvimento de sistemas completos |
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/raphael-perim-do-carmo-512166315">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:raphael.perim123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/RaphaelPCarmo">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
+## 📫 Conecte-se comigo
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/raphael-perim-do-carmo-512166315">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RaphaelPCarmo">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:raphael.perim123@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cbe84c17-3cac-479d-8ebe-0dcc3ffeabda" alt="Dragão estilizado" width="180"/>
