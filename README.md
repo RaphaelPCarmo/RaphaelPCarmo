@@ -1,7 +1,7 @@
 <h1 align="center"></h1>
 
 <p align="center">
-  🎓 <strong>Computer Science Student</strong> • 💻 <strong>Growing Backend Developer</strong> • 🚀 <strong>Focused on Backend and Complete Solutions</strong> • 🤖 <strong>AI & Machine Learning Enthusiast</strong>
+  🎓 <strong>Computer Science Student</strong> • 💻 <strong>Software Junior & Backend Developer</strong> • 🚀 <strong>Focused on Backend and Complete Solutions</strong> • 🤖 <strong>AI & Machine Learning Enthusiast</strong>
 </p>
 
 ## 👋 Sobre mim
@@ -14,10 +14,10 @@ Adoro aprender, programar e contribuir com projetos que fazem a diferença.
 ## 🐉 Skills & Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=appveyor" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
 
 ## 📈 Performance (GitHub Stats)
