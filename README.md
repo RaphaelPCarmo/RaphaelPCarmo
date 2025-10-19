@@ -1,4 +1,3 @@
-<h1 align="center"></h1>
 
 <p align="center">
   🎓 <strong>Computer Science Student</strong> • 💻 <strong>Software Junior & Backend Developer</strong> • 🚀 <strong>Focused on Backend and Complete Solutions</strong> • 🤖 <strong>AI & Machine Learning Enthusiast</strong>
