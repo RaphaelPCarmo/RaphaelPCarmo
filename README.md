@@ -1,5 +1,5 @@
-<p align="center">
-  Junior Software Engineer | Java | Spring Boot | MySQL | REST APIs | Git & Docker
+<p align="center" style="font-size: 18px; font-weight: bold;">
+  Junior Software Engineer • Java • Spring Boot • MySQL • REST APIs • Git • Docker
 </p>
 
 ## 👋 Sobre mim
