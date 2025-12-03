@@ -1,4 +1,3 @@
-
 <p align="center">
   🎓 <strong>Computer Science Student</strong> • 💻 <strong>Software Junior & Backend Developer</strong> • 🚀 <strong>Focused on Backend and Complete Solutions</strong> • 🤖 <strong>AI & Machine Learning Enthusiast</strong>
 </p>
@@ -21,8 +20,8 @@ Adoro aprender, programar e contribuir com projetos que fazem a diferença.
 
 ## 📈 Performance (GitHub Stats)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelPCarmo&show_icons=true&theme=dark&locale=en&title_color=8a2be2&icon_color=ED8B00&text_color=FFFFFF&bg_color=000000" width="450" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelPCarmo&layout=compact&langs_count=7&theme=dark&title_color=8a2be2&text_color=FFFFFF&bg_color=000000" width="350" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=RaphaelPCarmo&show_icons=true&theme=dark" width="450" />
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=RaphaelPCarmo&layout=compact&theme=dark" width="350" />
 </p>
 
 ## 🌱 My Studies (Diary)
