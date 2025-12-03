@@ -1,12 +1,10 @@
 <p align="center">
-  🎓 <strong>Computer Science Student</strong> • 💻 <strong>Software Junior & Backend Developer</strong> • 🚀 <strong>Focused on Backend and Complete Solutions</strong> • 🤖 <strong>AI & Machine Learning Enthusiast</strong>
+  Junior Software Engineer | Java | Spring Boot | MySQL | REST APIs | Git & Docker
 </p>
 
 ## 👋 Sobre mim
 <p align="justify">
-Estudante de Ciência da Computação, em busca da primeira oportunidade como Desenvolvedor de Software Júnior ou freelancer.  
-Já desenvolvi projetos acadêmicos e pessoais aplicando Java, C++, Android Studio e MySQL, com foco em backend, orientação a objetos e boas práticas de código.  
-Adoro aprender, programar e contribuir com projetos que fazem a diferença.
+Estudante de Ciência da Computação com experiência em projetos Java, C++, Android Studio e MySQL. Atuo no desenvolvimento backend com foco em POO, APIs REST e boas práticas. Busco minha primeira oportunidade como Desenvolvedor de Software Júnior para aplicar e expandir minhas habilidades em projetos reais.
 </p>
 
 ## 🐉 Skills & Technologies
