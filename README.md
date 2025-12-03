@@ -20,8 +20,8 @@ Adoro aprender, programar e contribuir com projetos que fazem a diferença.
 
 ## 📈 Performance (GitHub Stats)
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=RaphaelPCarmo&show_icons=true&theme=dark" width="450" />
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=RaphaelPCarmo&layout=compact&theme=dark" width="350" />
+  <img src="https://readmestats.999857.xyz/api?username=RaphaelPCarmo&show_icons=true&theme=dark" width="450" />
+  <img src="https://readmestats.999857.xyz/api/top-langs/?username=RaphaelPCarmo&layout=compact&theme=dark" width="350" />
 </p>
 
 ## 🌱 My Studies (Diary)
@@ -38,6 +38,8 @@ Adoro aprender, programar e contribuir com projetos que fazem a diferença.
     <td align="center">
       <a href="https://www.linkedin.com/in/raphael-perim-do-carmo-512166315">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
     <td align="center">
       <a href="mailto:raphael.perim123@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
