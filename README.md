@@ -9,11 +9,11 @@ Estudante de Ciência da Computação com experiência em projetos Java, C++, An
 
 ## 🐉 Skills & Technologies
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=java&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=dotnet&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=spring&theme=light" height="70"/></a>
 </p>
 
 ## 📈 Performance (GitHub Stats)
