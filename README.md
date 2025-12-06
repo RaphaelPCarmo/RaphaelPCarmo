@@ -45,10 +45,3 @@ Estudante de Ciência da Computação com experiência em projetos Java, C++, An
     <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-r">
-      <a href="mailto:raphael.perim123@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-      </a>
-    </td>
-  </tr>
-</table>
