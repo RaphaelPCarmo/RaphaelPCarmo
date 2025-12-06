@@ -34,4 +34,20 @@ Estudante de Ciência da Computação com experiência em projetos Java, C++, An
 | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> | Banco de Dados | 🟦 Intermediário |
 | <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> | Banco de Dados | 🟩 Básico |
 
-## 📫 Let's Connect! <table align="center"> <tr> <td align="center"> <a href="https://www.linkedin.com/in/raphael-perim-do-carmo-512166315"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </td> <td align="center
+## 📫 Let's Connect!
+
+<table align="center" border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://www.linkedin.com/in/raphael-perim-do-carmo-512166315">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="mailto:raphaelpcarmo@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
