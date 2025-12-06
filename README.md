@@ -37,11 +37,11 @@ Estudante de Ciência da Computação com experiência em projetos Java, C++, An
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raphael-perim-do-carmo-512166315" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/raphael-perim-do-carmo-512166315" target="_blank" style="text-decoration: none;">
+    <img height="32" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:raphaelpcarmo@gmail.com">
-    <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:raphaelpcarmo@gmail.com" style="text-decoration: none;">
+    <img height="32" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
