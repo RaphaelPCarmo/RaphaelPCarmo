@@ -24,12 +24,22 @@ Estudante de Ciência da Computação com experiência em projetos Java, C++, An
 </p>
 
 ## 🌱 My Studies (Diary)
-| Linguagens      | Áreas                |
-|-----------------|----------------------|
-| ☕ Java         | 🧠 IA & Ciência de Dados |
-| 🌐 JavaScript   | 💻 Engenharia de Software |
-| 🗄️ MySQL        | 📊 Machine Learning |
-| 📐 C/C++        | 🧮 Algoritmos e Estruturas de Dados|
+
+| Linguagens | Áreas |
+|-----------|--------|
+| ☕ Java | 💻 Engenharia de Software |
+| 🌐 JavaScript (Fundamentos) | 🧮 Algoritmos e Estruturas de Dados |
+| 🐍 Python | 🧠 IA / Machine Learning (Fundamentos) |
+| 📐 C/C++ | — |
+
+---
+
+## 🗄️ Bancos de Dados
+
+| Banco | Nível |
+|-------|--------|
+| 🟦 MySQL | Intermediário |
+| 🟩 MongoDB | Básico |
 
 ## 📫 Let's Connect!
 <table align="center">
