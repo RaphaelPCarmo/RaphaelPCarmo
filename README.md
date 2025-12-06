@@ -27,12 +27,12 @@ Estudante de Ciência da Computação com experiência em projetos Java, C++, An
 
 | Tecnologia | Tipo | Nível |
 |-----------|-------|--------|
-| ☕ Java | Linguagem | Intermediário |
-| 🌐 JavaScript | Linguagem | Básico |
-| 🐍 Python | Linguagem | Básico |
-| 📐 C/C++ | Linguagem | Intermediário |
-| 🟦 MySQL | Banco de Dados | Intermediário |
-| 🟩 MongoDB | Banco de Dados | Básico |
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | Linguagem | 🟦 Intermediário |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | Linguagem | 🟨 Básico |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | Linguagem | 🟨 Básico |
+| <img src="https://img.shields.io/badge/C%2FCPP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> | Linguagem | 🟦 Intermediário |
+| <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> | Banco de Dados | 🟦 Intermediário |
+| <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> | Banco de Dados | 🟩 Básico |
 
 ## 📫 Let's Connect!
 <table align="center">
