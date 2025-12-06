@@ -11,9 +11,10 @@ Estudante de Ciência da Computação com experiência em projetos Java, C++, An
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=java&theme=light" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=cpp&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=dotnet&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python&theme=light" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=spring&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=javascript&theme=light" height="70"/></a>
 </p>
 
 ## 📈 Performance (GitHub Stats)
