@@ -2,7 +2,7 @@
   💻 <strong>Junior Software Engineer</strong> • ☕ <strong>Java & Spring Boot</strong> • 🗄️ <strong>MySQL</strong> • 🔗 <strong>REST APIs</strong> • 🐙 <strong>Git</strong> • 🐳 <strong>Docker</strong>
 </p>
 
-## ☕ Sobre mim
+## 🎓 Sobre mim
 <p align="justify">
 Sou estudante de Ciência da Computação e já trabalho em projetos com Java, C++, Android Studio e MySQL. Tenho experiência no backend, usando POO, APIs REST e boas práticas. Estou em busca da minha primeira vaga como Desenvolvedor Júnior para colocar minhas habilidades em prática e continuar evoluindo em projetos reais.
 </p>
