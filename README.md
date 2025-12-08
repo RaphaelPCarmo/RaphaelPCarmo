@@ -2,12 +2,12 @@
   💻 <strong>Junior Software Engineer</strong> • ☕ <strong>Java & Spring Boot</strong> • 🗄️ <strong>MySQL</strong> • 🔗 <strong>REST APIs</strong> • 🐙 <strong>Git</strong> • 🐳 <strong>Docker</strong>
 </p>
 
-## 👋 Sobre mim
+## ☕ Sobre mim
 <p align="justify">
 Estudante de Ciência da Computação com experiência em projetos Java, C++, Android Studio e MySQL. Atuo no desenvolvimento backend com foco em POO, APIs REST e boas práticas. Busco minha primeira oportunidade como Desenvolvedor de Software Júnior para aplicar e expandir minhas habilidades em projetos reais.
 </p>
 
-## 🐉 Skills & Technologies
+## ☕ Skills & Technologies
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=java&theme=light" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=cpp&theme=light" height="70"/></a>
@@ -23,7 +23,7 @@ Estudante de Ciência da Computação com experiência em projetos Java, C++, An
   <img src="https://readmestats.999857.xyz/api/top-langs/?username=RaphaelPCarmo&layout=compact&theme=dark" width="350" />
 </p>
 
-## 🌱 My Studies (Diary)
+## 🗄️ My Studies (Diary)
 
 | Tecnologia | Tipo | Nível |
 |-----------|-------|--------|
