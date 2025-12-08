@@ -4,7 +4,7 @@
 
 ## ☕ Sobre mim
 <p align="justify">
-Estudante de Ciência da Computação com experiência em projetos Java, C++, Android Studio e MySQL. Atuo no desenvolvimento backend com foco em POO, APIs REST e boas práticas. Busco minha primeira oportunidade como Desenvolvedor de Software Júnior para aplicar e expandir minhas habilidades em projetos reais.
+Sou estudante de Ciência da Computação e já trabalho em projetos com Java, C++, Android Studio e MySQL. Tenho experiência no backend, usando POO, APIs REST e boas práticas. Estou em busca da minha primeira vaga como Desenvolvedor Júnior para colocar minhas habilidades em prática e continuar evoluindo em projetos reais.
 </p>
 
 ## ☕ Skills & Technologies
