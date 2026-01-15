@@ -10,11 +10,17 @@ Estudante de Ciência da Computação (5º semestre), com foco em Java Back-End.
 ## ☕ Skills & Technologies
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=java&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=spring&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=hibernate&theme=light" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=cpp&theme=light" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=python&theme=light" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb&theme=light" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=html&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css&theme=light" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=javascript&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github&theme=light" height="70"/></a>
 </p>
 
 ## 📈 Performance (GitHub Stats)
