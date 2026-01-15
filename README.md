@@ -31,11 +31,9 @@ Estudante de Ciência da Computação (5º semestre), com foco em Java Back-End.
 
 <p align="center">
   <a href="https://github.com/RaphaelPCarmo?tab=repositories">
-    <img src="https://img.shields.io/badge/Meus%20Projetos-GitHub-black?style=for-the-badge&logo=github" />
+    <strong>🔗 Ver todos os meus projetos no GitHub</strong>
   </a>
 </p>
-
-
 
 ## 🗄️ My Studies (Diary)
 
