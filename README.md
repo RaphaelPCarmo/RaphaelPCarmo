@@ -29,7 +29,13 @@ Estudante de Ciência da Computação (5º semestre), com foco em Java Back-End.
   <img src="https://readmestats.999857.xyz/api/top-langs/?username=RaphaelPCarmo&layout=compact&theme=dark" width="350" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelPCarmo&layout=compact)
+<p align="center">
+  <a href="https://github.com/RaphaelPCarmo?tab=repositories">
+    <img src="https://img.shields.io/badge/Meus%20Projetos-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+
 
 ## 🗄️ My Studies (Diary)
 
