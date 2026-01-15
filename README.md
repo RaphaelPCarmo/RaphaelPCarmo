@@ -33,7 +33,7 @@ Estudante de Ciência da Computação (5º semestre), com foco em Java Back-End.
 
 | Tecnologia | Tipo | Nível |
 |-----------|-------|--------|
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | Linguagem | 🟦 Intermediário |
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | Linguagem | 🟥 Avançado |
 | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | Linguagem | 🟦 Intermediário |
 | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | Linguagem | 🟩 Básico |
 | <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> | Linguagem | 🟦 Intermediário |
