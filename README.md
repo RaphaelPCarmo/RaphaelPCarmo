@@ -29,6 +29,8 @@ Estudante de Ciência da Computação (5º semestre), com foco em Java Back-End.
   <img src="https://readmestats.999857.xyz/api/top-langs/?username=RaphaelPCarmo&layout=compact&theme=dark" width="350" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelPCarmo&layout=compact)
+
 ## 🗄️ My Studies (Diary)
 
 | Tecnologia | Tipo | Nível |
