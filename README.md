@@ -30,8 +30,10 @@ Estudante de Ciência da Computação (5º semestre), com foco em Java Back-End.
 </p>
 
 <p align="center">
-  <a href="https://github.com/RaphaelPCarmo?tab=repositories">
-    <strong>🔗 Ver todos os meus projetos no GitHub</strong>
+  <a href="https://github.com/RaphaelPCarmo/springboot-crud-h2-api">
+    <img src="https://skillicons.dev/icons?i=spring,java&theme=light" height="60"/>
+    <br/>
+    Spring Boot CRUD API
   </a>
 </p>
 
