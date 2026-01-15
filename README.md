@@ -52,7 +52,11 @@ Estudante de Ciência da Computação (5º semestre), com foco em Java Back-End.
       <a href="mailto:raphaelpcarmo@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
       </a>
-    </td>
+   <td align="center" style="border: none;">
+  <a href="https://wa.me/5519998430675">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</td>
   </tr>
 </table>
 
