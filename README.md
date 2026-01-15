@@ -29,13 +29,6 @@ Estudante de Ciência da Computação (5º semestre), com foco em Java Back-End.
   <img src="https://readmestats.999857.xyz/api/top-langs/?username=RaphaelPCarmo&layout=compact&theme=dark" width="350" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/RaphaelPCarmo/springboot-crud-h2-api">
-    <img src="https://skillicons.dev/icons?i=spring,java&theme=light" height="60"/>
-    <br/>
-    Spring Boot CRUD API
-  </a>
-</p>
 
 ## 🗄️ My Studies (Diary)
 
