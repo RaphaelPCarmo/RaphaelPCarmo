@@ -42,40 +42,23 @@ Computer Science student (5th semester) with a focus on Java Back-End developmen
 
 ## 🗄️ My Studies (Learning Log)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Back--End%20Development-blueviolet?style=for-the-badge" />
-</p>
-
-## 🧠 Skills
-
-### 💻 Languages
-- **Java** — Intermediate  
-- **JavaScript** — Intermediate  
-- **Python** — Intermediate  
-- **C / C++** — Intermediate  
-
-### ⚙️ Back-end
-- **Spring Boot** — Basic  
-- **REST APIs** — Basic  
-- **JPA / Hibernate** — Basic  
-
-### 🗄️ Databases
-- **MySQL** — Intermediate  
-- **MongoDB** — Basic  
-
-### 🛠️ Tools & Others
-- **Git / GitHub** — Intermediate  
-- **Docker** — Basic  
-- **Linux (CLI)** — Basic  
-- **IntelliJ IDEA** — Intermediate  
-- **Postman** — Basic  
-- **Maven** — Basic  
-
-### 📚 Foundations
-- Object-Oriented Programming (OOP)  
-- Data Structures (Arrays, Lists)  
-- Programming Logic  
-- Clean Code (basics)  
+| Technology | Type | Level |
+|-----------|------|-------|
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | Language | 🟦 Intermediate |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | Language | 🟦 Intermediate |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | Language | 🟦 Intermediate |
+| <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> | Language | 🟦 Intermediate |
+| <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> | Framework | 🟩 Basic |
+| <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" /> | ORM | 🟩 Basic |
+| <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white" /> | Back-end | 🟩 Basic |
+| <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> | Database | 🟦 Intermediate |
+| <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> | Database | 🟩 Basic |
+| <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> | Database | 🟩 Basic |
+| <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> | Version Control | 🟦 Intermediate |
+| <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> | Platform | 🟦 Intermediate |
+| <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> | DevOps | 🟩 Basic |
+| <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> | OS | 🟩 Basic |
+| <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> | Tool | 🟩 Basic |
 
 ## 📫 Let's Connect!
 <table align="center" border="0" cellspacing="0" cellpadding="6">
