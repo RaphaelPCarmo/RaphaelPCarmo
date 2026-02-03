@@ -42,6 +42,11 @@ Computer Science student (5th semester) with a focus on Java Back-End developmen
 
 ## 🧩 Tech Stack
 
+**Back-end:** Java • Spring Boot • JPA/Hibernate • REST APIs  
+**Databases:** MySQL • PostgreSQL  
+**Tools:** Git/GitHub • Docker • Postman • Linux
+
+
 ### 🔧 Back-end
 | Technology | Level |
 |-----------|-------|
