@@ -1,5 +1,5 @@
 <p align="center">
-  💻 <strong>Junior Software Engineer</strong> • ☕ <strong>Java & Spring Boot</strong> • 🗄️ <strong>MySQL</strong> • 🔗 <strong>REST APIs</strong> • 🐙 <strong>Git</strong> • 🐳 <strong>Docker</strong>
+  💻 <strong>Junior Software Engineer</strong> ☕ <strong>Java & Spring Boot</strong> 🗄️ <strong>MySQL</strong> 🔗 <strong>REST APIs</strong> 🐙 <strong>Git</strong> 🐳 <strong>Docker</strong>
 </p>
 
 ## 🎓 About Me
@@ -8,30 +8,27 @@ Computer Science student (5th semester) with a focus on Java Back-End developmen
 </p>
 
 ## ☕ Skills & Technologies
+
+### ☕ Back-End & Languages
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=java&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=spring&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=hibernate&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=python&theme=light" height="70"/></a>
-
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=postgresql&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb&theme=light" height="70"/></a>
-
-  <a href="#"><img src="https://skillicons.dev/icons?i=aws&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=kubernetes&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linux&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=postman&theme=light" height="70"/></a>
-
-  <a href="#"><img src="https://skillicons.dev/icons?i=html&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=css&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=javascript&theme=light" height="70"/></a>
-
-  <a href="#"><img src="https://skillicons.dev/icons?i=git&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github&theme=light" height="70"/></a>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,cpp,python&theme=light" height="60"/>
 </p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=light" height="60"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux&theme=light" height="60"/>
+</p>
+
+### 🛠️ Tools & Front-End
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,git,github,html,css,javascript&theme=light" height="60"/>
+</p>
+
 
 ## 📈 Performance (GitHub Stats)
 <p align="center">
