@@ -1,6 +1,12 @@
 <p align="center">
-  💻 <strong>Junior Software Engineer</strong> ☕ <strong>Java & Spring Boot</strong> 🗄️ <strong>MySQL</strong> 🔗 <strong>REST APIs</strong> 🐙 <strong>Git</strong> 🐳 <strong>Docker</strong>
+  💻 <strong>Junior Software Engineer</strong> &nbsp;|&nbsp;
+  ☕ <strong>Java & Spring Boot</strong> &nbsp;|&nbsp;
+  🗄️ <strong>MySQL / PostgreSQL</strong> &nbsp;|&nbsp;
+  🔗 <strong>RESTful APIs</strong> &nbsp;|&nbsp;
+  🐳 <strong>Docker</strong> &nbsp;|&nbsp;
+  ☁️ <strong>AWS</strong>
 </p>
+
 
 ## 🎓 About Me
 <p align="justify">
