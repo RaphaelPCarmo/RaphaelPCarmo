@@ -1,11 +1,8 @@
 <p align="center">
-  💻 <strong>Junior Software Engineer</strong> &nbsp;|&nbsp;
-  ☕ <strong>Java & Spring Boot</strong> &nbsp;|&nbsp;
-  🗄️ <strong>MySQL / PostgreSQL</strong> &nbsp;|&nbsp;
-  🔗 <strong>RESTful APIs</strong> &nbsp;|&nbsp;
-  🐳 <strong>Docker</strong> &nbsp;|&nbsp;
-  ☁️ <strong>AWS</strong>
+  <strong>Junior Software Engineer</strong> passionate about building scalable backend systems<br>
+  ☕ Java & Spring Boot • 🔗 REST APIs • 🗄️ SQL Databases • 🐳 Docker • ☁️ AWS
 </p>
+
 
 
 ## 🎓 About Me
