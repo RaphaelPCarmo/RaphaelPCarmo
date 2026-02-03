@@ -1,10 +1,10 @@
 <p align="center">
-  💻 <strong>Junior Software Engineer</strong><br>
-  ☕ Java • Spring Boot • Hibernate<br>
-  🗄️ MySQL • PostgreSQL • MongoDB<br>
-  🔗 RESTful APIs • Postman<br>
-  🐳 Docker • ☸️ Kubernetes • ☁️ AWS<br>
-  🐙 Git • GitHub • 🐧 Linux
+  💻 <strong>Junior Software Engineer</strong> &nbsp;|&nbsp;
+  ☕ <strong>Java & Spring Boot</strong> &nbsp;|&nbsp;
+  🗄️ <strong>MySQL / PostgreSQL</strong> &nbsp;|&nbsp;
+  🔗 <strong>RESTful APIs</strong> &nbsp;|&nbsp;
+  🐳 <strong>Docker</strong> &nbsp;|&nbsp;
+  ☁️ <strong>AWS</strong>
 </p>
 
 ## 🎓 About Me
