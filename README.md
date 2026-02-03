@@ -12,25 +12,6 @@
 Computer Science student (5th semester) with a focus on Java Back-End development. I build practical projects applying Object-Oriented Programming (OOP), Spring Boot, and development best practices, always aiming for continuous technical growth.
 </p>
 
-## 🗄️ My Studies
-
-| Area | Skill | Level |
-|-----|-------|-------|
-| Back-end | <img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=java&logoColor=ED8B00" /> | 🟦 Intermediate |
-| Back-end | <img src="https://img.shields.io/badge/Spring%20Boot-0A0A0A?style=for-the-badge&logo=springboot&logoColor=6DB33F" /> | 🟩 Basic |
-| Back-end | <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-0A0A0A?style=for-the-badge&logo=hibernate&logoColor=59666C" /> | 🟩 Basic |
-| Database | <img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1" /> | 🟦 Intermediate |
-| Database | <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1" /> | 🟩 Basic |
-| Tools | <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032" /> | 🟦 Intermediate |
-| Tools | <img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED" /> | 🟩 Basic |
-
-## 📈 Performance (GitHub Stats)
-
-<p align="center">
-  <img src="https://readmestats.999857.xyz/api?username=RaphaelPCarmo&show_icons=true&theme=tokyonight" width="450" />
-  <img src="https://readmestats.999857.xyz/api/top-langs/?username=RaphaelPCarmo&layout=compact&theme=tokyonight" width="350" />
-</p>
-
 ## ☕ Skills & Technologies
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=java&theme=light" height="70"/></a>
@@ -52,6 +33,25 @@ Computer Science student (5th semester) with a focus on Java Back-End developmen
   <a href="#"><img src="https://skillicons.dev/icons?i=git&theme=light" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=github&theme=light" height="70"/></a>
 </p>
+
+## 📈 Performance (GitHub Stats)
+<p align="center">
+  <img src="https://readmestats.999857.xyz/api?username=RaphaelPCarmo&show_icons=true&theme=tokyonight" width="450" />
+  <img src="https://readmestats.999857.xyz/api/top-langs/?username=RaphaelPCarmo&layout=compact&theme=tokyonight" width="350" />
+</p>
+
+## 🗄️ My Studies
+
+| Area | Skill | Level |
+|-----|-------|-------|
+| Back-end | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | 🟦 Intermediate |
+| Back-end | <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> | 🟩 Basic |
+| Back-end | <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" /> | 🟩 Basic |
+| Database | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> | 🟦 Intermediate |
+| Database | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> | 🟩 Basic |
+| Tools | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> | 🟦 Intermediate |
+| Tools | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> | 🟩 Basic |
+
 
 ## 📫 Let's Connect!
 <table align="center" border="0" cellspacing="0" cellpadding="6">
