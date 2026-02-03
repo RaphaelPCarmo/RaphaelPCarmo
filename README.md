@@ -1,9 +1,11 @@
 <p align="center">
-  <strong>Junior Software Engineer</strong> passionate about building scalable backend systems<br>
-  ☕ Java & Spring Boot • 🔗 REST APIs • 🗄️ SQL Databases • 🐳 Docker • ☁️ AWS
+  💻 <strong>Junior Software Engineer</strong><br>
+  ☕ Java • Spring Boot • Hibernate<br>
+  🗄️ MySQL • PostgreSQL • MongoDB<br>
+  🔗 RESTful APIs • Postman<br>
+  🐳 Docker • ☸️ Kubernetes • ☁️ AWS<br>
+  🐙 Git • GitHub • 🐧 Linux
 </p>
-
-
 
 ## 🎓 About Me
 <p align="justify">
@@ -31,7 +33,6 @@ Computer Science student (5th semester) with a focus on Java Back-End developmen
   <a href="#"><img src="https://skillicons.dev/icons?i=git&theme=light" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=github&theme=light" height="70"/></a>
 </p>
-
 
 ## 📈 Performance (GitHub Stats)
 <p align="center">
