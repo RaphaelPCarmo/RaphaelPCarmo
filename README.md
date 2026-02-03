@@ -2,9 +2,9 @@
   💻 <strong>Junior Software Engineer</strong> • ☕ <strong>Java & Spring Boot</strong> • 🗄️ <strong>MySQL</strong> • 🔗 <strong>REST APIs</strong> • 🐙 <strong>Git</strong> • 🐳 <strong>Docker</strong>
 </p>
 
-## 🎓 Sobre mim
+## 🎓 About Me
 <p align="justify">
-Estudante de Ciência da Computação (5º semestre), com foco em Java Back-End. Desenvolvo projetos práticos aplicando POO, Spring Boot e boas práticas de desenvolvimento, sempre buscando evoluir tecnicamente.
+Computer Science student (5th semester) with a focus on Java Back-End development. I build practical projects applying Object-Oriented Programming (OOP), Spring Boot, and development best practices, always aiming for continuous technical growth.
 </p>
 
 ## ☕ Skills & Technologies
@@ -29,17 +29,16 @@ Estudante de Ciência da Computação (5º semestre), com foco em Java Back-End.
   <img src="https://readmestats.999857.xyz/api/top-langs/?username=RaphaelPCarmo&layout=compact&theme=dark" width="350" />
 </p>
 
+## 🗄️ My Studies (Learning Log)
 
-## 🗄️ My Studies (Diary)
-
-| Tecnologia | Tipo | Nível |
-|-----------|-------|--------|
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | Linguagem | 🟥 Avançado |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | Linguagem | 🟦 Intermediário |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | Linguagem | 🟩 Básico |
-| <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> | Linguagem | 🟦 Intermediário |
-| <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> | Banco de Dados | 🟥 Avançado |
-| <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> | Banco de Dados | 🟦 Intermediário |
+| Technology | Type | Level |
+|-----------|------|-------|
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | Language | 🟦 Intermediate |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | Language | 🟦 Intermediate |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | Language | 🟦 Intermediate |
+| <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> | Language | 🟦 Intermediate |
+| <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> | Database | 🟦 Intermediate |
+| <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> | Database | 🟦 Intermediate |
 
 ## 📫 Let's Connect!
 <table align="center" border="0" cellspacing="0" cellpadding="6">
@@ -53,11 +52,11 @@ Estudante de Ciência da Computação (5º semestre), com foco em Java Back-End.
       <a href="mailto:raphaelpcarmo@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
       </a>
-   <td align="center" style="border: none;">
-  <a href="https://wa.me/5519998430675">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</td>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://wa.me/5519998430675">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+      </a>
+    </td>
   </tr>
 </table>
-
