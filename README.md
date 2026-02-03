@@ -40,24 +40,43 @@ Computer Science student (5th semester) with a focus on Java Back-End developmen
   <img src="https://readmestats.999857.xyz/api/top-langs/?username=RaphaelPCarmo&layout=compact&theme=dark" width="350" />
 </p>
 
-## 🗄️ My Studies
+## 🧩 Tech Stack
 
+### 🔧 Back-end
 | Technology | Level |
 |-----------|-------|
-| Java | Intermediate |
-| Spring Boot | Basic |
-| JPA / Hibernate | Basic |
-| JavaScript | Intermediate |
-| Python | Intermediate |
-| C / C++ | Intermediate |
-| MySQL | Intermediate |
-| PostgreSQL | Basic |
-| MongoDB | Basic |
-| Git / GitHub | Intermediate |
-| Docker | Basic |
-| Linux | Basic |
-| Postman | Basic |
+| Java | 🟦 Intermediate |
+| Spring Boot | 🟩 Basic |
+| JPA / Hibernate | 🟩 Basic |
+| REST APIs | 🟩 Basic |
 
+### 🎨 Front-end
+| Technology | Level |
+|-----------|-------|
+| JavaScript | 🟦 Intermediate |
+| HTML | 🟦 Intermediate |
+| CSS | 🟦 Intermediate |
+
+### 🗄️ Databases
+| Technology | Level |
+|-----------|-------|
+| MySQL | 🟦 Intermediate |
+| PostgreSQL | 🟩 Basic |
+| MongoDB | 🟩 Basic |
+
+### ⚙️ DevOps & Tools
+| Technology | Level |
+|-----------|-------|
+| Git / GitHub | 🟦 Intermediate |
+| Docker | 🟩 Basic |
+| Linux | 🟩 Basic |
+| Postman | 🟩 Basic |
+
+### 💻 Programming Foundations
+| Technology | Level |
+|-----------|-------|
+| C / C++ | 🟦 Intermediate |
+| Python | 🟦 Intermediate |
 
 ## 📫 Let's Connect!
 <table align="center" border="0" cellspacing="0" cellpadding="6">
