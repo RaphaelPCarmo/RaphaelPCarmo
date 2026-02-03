@@ -42,14 +42,26 @@ Computer Science student (5th semester) with a focus on Java Back-End developmen
 
 ## 🗄️ My Studies (Learning Log)
 
-| Technology | Type | Level |
-|-----------|------|-------|
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | Language | 🟦 Intermediate |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | Language | 🟦 Intermediate |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | Language | 🟦 Intermediate |
-| <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> | Language | 🟦 Intermediate |
-| <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> | Database | 🟦 Intermediate |
-| <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> | Database | 🟦 Intermediate |
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Back--End%20Development-blueviolet?style=for-the-badge" />
+</p>
+
+### 💻 Programming Languages
+| Technology | Level |
+|-----------|-------|
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" /> | 🟦🟦🟦⬜⬜ Intermediate |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | 🟦🟦🟦⬜⬜ Intermediate |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | 🟦🟦🟦⬜⬜ Intermediate |
+| <img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> | 🟦🟦🟦⬜⬜ Intermediate |
+
+### 🗄️ Databases
+| Technology | Level |
+|-----------|-------|
+| <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> | 🟦🟦🟦⬜⬜ Intermediate |
+| <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> | 🟦🟦🟦⬜⬜ Intermediate |
+
+> 🟦 Beginner | 🟦🟦 Intermediate | 🟦🟦🟦 Advanced (em evolução)
+
 
 ## 📫 Let's Connect!
 <table align="center" border="0" cellspacing="0" cellpadding="6">
