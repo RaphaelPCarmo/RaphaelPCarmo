@@ -8,25 +8,8 @@ Computer Science student (5th semester) with a focus on Java Back-End developmen
 </p>
 
 ## ☕ Skills & Technologies
-
-### ☕ Back-End & Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,cpp,python&theme=light" height="60"/>
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=light" height="60"/>
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux&theme=light" height="60"/>
-</p>
-
-### 🛠️ Tools & Front-End
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,git,github,html,css,javascript&theme=light" height="60"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,cpp,python,mysql,postgresql,mongodb,aws,docker,kubernetes,linux,postman,git,github,html,css,javascript&theme=light" height="55"/>
 </p>
 
 
