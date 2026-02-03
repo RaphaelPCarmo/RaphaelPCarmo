@@ -7,6 +7,7 @@
 Computer Science student (5th semester) with a focus on Java Back-End development. I build practical projects applying Object-Oriented Programming (OOP), Spring Boot, and development best practices, always aiming for continuous technical growth.
 </p>
 
+## ☕ Skills & Technologies
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=java&theme=light" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=spring&theme=light" height="70"/></a>
