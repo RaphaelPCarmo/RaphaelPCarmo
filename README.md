@@ -46,22 +46,36 @@ Computer Science student (5th semester) with a focus on Java Back-End developmen
   <img src="https://img.shields.io/badge/Focus-Back--End%20Development-blueviolet?style=for-the-badge" />
 </p>
 
-### 💻 Programming Languages
-| Technology | Level |
-|-----------|-------|
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" /> | 🟦🟦🟦⬜⬜ Intermediate |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | 🟦🟦🟦⬜⬜ Intermediate |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | 🟦🟦🟦⬜⬜ Intermediate |
-| <img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> | 🟦🟦🟦⬜⬜ Intermediate |
+## 🧠 Skills
+
+### 💻 Languages
+- **Java** — Intermediate  
+- **JavaScript** — Intermediate  
+- **Python** — Intermediate  
+- **C / C++** — Intermediate  
+
+### ⚙️ Back-end
+- **Spring Boot** — Basic  
+- **REST APIs** — Basic  
+- **JPA / Hibernate** — Basic  
 
 ### 🗄️ Databases
-| Technology | Level |
-|-----------|-------|
-| <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> | 🟦🟦🟦⬜⬜ Intermediate |
-| <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> | 🟦🟦🟦⬜⬜ Intermediate |
+- **MySQL** — Intermediate  
+- **MongoDB** — Basic  
 
-> 🟦 Beginner | 🟦🟦 Intermediate | 🟦🟦🟦 Advanced (em evolução)
+### 🛠️ Tools & Others
+- **Git / GitHub** — Intermediate  
+- **Docker** — Basic  
+- **Linux (CLI)** — Basic  
+- **IntelliJ IDEA** — Intermediate  
+- **Postman** — Basic  
+- **Maven** — Basic  
 
+### 📚 Foundations
+- Object-Oriented Programming (OOP)  
+- Data Structures (Arrays, Lists)  
+- Programming Logic  
+- Clean Code (basics)  
 
 ## 📫 Let's Connect!
 <table align="center" border="0" cellspacing="0" cellpadding="6">
