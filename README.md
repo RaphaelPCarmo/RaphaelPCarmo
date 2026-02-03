@@ -35,10 +35,12 @@ Computer Science student (5th semester) with a focus on Java Back-End developmen
 </p>
 
 ## 📈 Performance (GitHub Stats)
+
 <p align="center">
-  <img src="https://readmestats.999857.xyz/api?username=RaphaelPCarmo&show_icons=true&bg_color=0d1117&title_color=9b5cff&icon_color=9b5cff&text_color=c9d1d9&border_color=9b5cff" width="450" />
-  <img src="https://readmestats.999857.xyz/api/top-langs/?username=RaphaelPCarmo&layout=compact&bg_color=0d1117&title_color=9b5cff&text_color=c9d1d9&border_color=9b5cff" width="350" />
+  <img src="https://readmestats.999857.xyz/api?username=RaphaelPCarmo&show_icons=true&theme=tokyonight" width="450" />
+  <img src="https://readmestats.999857.xyz/api/top-langs/?username=RaphaelPCarmo&layout=compact&theme=tokyonight" width="350" />
 </p>
+
 
 ## 🗄️ My Studies
 
