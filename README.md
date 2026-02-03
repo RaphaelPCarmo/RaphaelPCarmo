@@ -16,14 +16,13 @@ Computer Science student (5th semester) with a focus on Java Back-End developmen
 
 | Area | Skill | Level |
 |-----|-------|-------|
-| Back-end | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | 🟦 Intermediate |
-| Back-end | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> | 🟩 Basic |
-| Back-end | <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" /> | 🟩 Basic |
-| Database | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> | 🟦 Intermediate |
-| Database | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> | 🟩 Basic |
-| Tools | <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" /> | 🟦 Intermediate |
-| Tools | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> | 🟩 Basic |
-
+| Back-end | <img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=java&logoColor=ED8B00" /> | 🟦 Intermediate |
+| Back-end | <img src="https://img.shields.io/badge/Spring%20Boot-0A0A0A?style=for-the-badge&logo=springboot&logoColor=6DB33F" /> | 🟩 Basic |
+| Back-end | <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-0A0A0A?style=for-the-badge&logo=hibernate&logoColor=59666C" /> | 🟩 Basic |
+| Database | <img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1" /> | 🟦 Intermediate |
+| Database | <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1" /> | 🟩 Basic |
+| Tools | <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032" /> | 🟦 Intermediate |
+| Tools | <img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED" /> | 🟩 Basic |
 
 ## 📈 Performance (GitHub Stats)
 
