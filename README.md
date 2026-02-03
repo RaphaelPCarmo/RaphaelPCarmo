@@ -40,48 +40,18 @@ Computer Science student (5th semester) with a focus on Java Back-End developmen
   <img src="https://readmestats.999857.xyz/api/top-langs/?username=RaphaelPCarmo&layout=compact&theme=dark" width="350" />
 </p>
 
-## 🧩 Tech Stack
+## 🗄️ My Studies
 
-**Back-end:** Java • Spring Boot • JPA/Hibernate • REST APIs  
-**Databases:** MySQL • PostgreSQL  
-**Tools:** Git/GitHub • Docker • Postman • Linux
+| Area | Skill | Level |
+|-----|-------|-------|
+| Back-end | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | 🟦 Intermediate |
+| Back-end | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> | 🟩 Basic |
+| Back-end | <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" /> | 🟩 Basic |
+| Database | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> | 🟦 Intermediate |
+| Database | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> | 🟩 Basic |
+| Tools | <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" /> | 🟦 Intermediate |
+| Tools | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> | 🟩 Basic |
 
-
-### 🔧 Back-end
-| Technology | Level |
-|-----------|-------|
-| Java | 🟦 Intermediate |
-| Spring Boot | 🟩 Basic |
-| JPA / Hibernate | 🟩 Basic |
-| REST APIs | 🟩 Basic |
-
-### 🎨 Front-end
-| Technology | Level |
-|-----------|-------|
-| JavaScript | 🟦 Intermediate |
-| HTML | 🟦 Intermediate |
-| CSS | 🟦 Intermediate |
-
-### 🗄️ Databases
-| Technology | Level |
-|-----------|-------|
-| MySQL | 🟦 Intermediate |
-| PostgreSQL | 🟩 Basic |
-| MongoDB | 🟩 Basic |
-
-### ⚙️ DevOps & Tools
-| Technology | Level |
-|-----------|-------|
-| Git / GitHub | 🟦 Intermediate |
-| Docker | 🟩 Basic |
-| Linux | 🟩 Basic |
-| Postman | 🟩 Basic |
-
-### 💻 Programming Foundations
-| Technology | Level |
-|-----------|-------|
-| C / C++ | 🟦 Intermediate |
-| Python | 🟦 Intermediate |
 
 ## 📫 Let's Connect!
 <table align="center" border="0" cellspacing="0" cellpadding="6">
