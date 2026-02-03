@@ -7,10 +7,27 @@
 Computer Science student (5th semester) with a focus on Java Back-End development. I build practical projects applying Object-Oriented Programming (OOP), Spring Boot, and development best practices, always aiming for continuous technical growth.
 </p>
 
-## ☕ Skills & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,cpp,python,mysql,postgresql,mongodb,aws,docker,kubernetes,linux,postman,git,github,html,css,javascript&theme=light" height="70"/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=spring&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=hibernate&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgresql&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=kubernetes&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postman&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=javascript&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github&theme=light" height="70"/></a>
 </p>
+
 
 ## 📈 Performance (GitHub Stats)
 <p align="center">
