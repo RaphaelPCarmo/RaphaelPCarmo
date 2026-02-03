@@ -9,9 +9,8 @@ Computer Science student (5th semester) with a focus on Java Back-End developmen
 
 ## ☕ Skills & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,cpp,python,mysql,postgresql,mongodb,aws,docker,kubernetes,linux,postman,git,github,html,css,javascript&theme=light" height="55"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,cpp,python,mysql,postgresql,mongodb,aws,docker,kubernetes,linux,postman,git,github,html,css,javascript&theme=light" height="70"/>
 </p>
-
 
 ## 📈 Performance (GitHub Stats)
 <p align="center">
