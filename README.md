@@ -42,19 +42,22 @@ Computer Science student (5th semester) with a focus on Java Back-End developmen
 
 ## 🗄️ My Studies
 
-![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?style=flat)
-![Spring](https://img.shields.io/badge/Spring_Boot-Basic-6DB33F?style=flat)
-![Hibernate](https://img.shields.io/badge/Hibernate-Basic-59666C?style=flat)
-![JS](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat)
-![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat)
-![C++](https://img.shields.io/badge/C%2FC++-Intermediate-00599C?style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-Intermediate-4479A1?style=flat)
-![Postgres](https://img.shields.io/badge/PostgreSQL-Basic-4169E1?style=flat)
-![MongoDB](https://img.shields.io/badge/MongoDB-Basic-47A248?style=flat)
-![Git](https://img.shields.io/badge/Git-GitHub-Intermediate-F05032?style=flat)
-![Docker](https://img.shields.io/badge/Docker-Basic-2496ED?style=flat)
-![Linux](https://img.shields.io/badge/Linux-Basic-FCC624?style=flat)
-![Postman](https://img.shields.io/badge/Postman-Basic-FF6C37?style=flat)
+| Technology | Level |
+|-----------|-------|
+| Java | Intermediate |
+| Spring Boot | Basic |
+| JPA / Hibernate | Basic |
+| JavaScript | Intermediate |
+| Python | Intermediate |
+| C / C++ | Intermediate |
+| MySQL | Intermediate |
+| PostgreSQL | Basic |
+| MongoDB | Basic |
+| Git / GitHub | Intermediate |
+| Docker | Basic |
+| Linux | Basic |
+| Postman | Basic |
+
 
 ## 📫 Let's Connect!
 <table align="center" border="0" cellspacing="0" cellpadding="6">
