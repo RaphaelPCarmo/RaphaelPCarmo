@@ -35,9 +35,10 @@ Computer Science student (5th semester) with a focus on Java Back-End developmen
 </p>
 
 ## 📈 Performance (GitHub Stats)
-
-![Stats](https://SEU-NOME.vercel.app/api?username=RaphaelPCarmo&show_icons=true&theme=tokyonight)
-![Top Langs](https://SEU-NOME.vercel.app/api/top-langs/?username=RaphaelPCarmo&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://readmestats.999857.xyz/api?username=RaphaelPCarmo&show_icons=true&theme=tokyonight" width="450" />
+  <img src="https://readmestats.999857.xyz/api/top-langs/?username=RaphaelPCarmo&layout=compact&theme=tokyonight" width="350" />
+</p>
 
 ## 📫 Let's Connect!
 <table align="center" border="0" cellspacing="0" cellpadding="6">
