@@ -1,0 +1,27 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # todo dia (03:00 UTC)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: RaphaelPCarmo
+          THEME: tokyo-night
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add -A
+          git commit -m "Update summary cards" || exit 0
+          git push
