@@ -36,10 +36,10 @@ Computer Science student (5th semester) with a focus on Java Back-End developmen
 
 ## 📈 Performance (GitHub Stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelPCarmo&show_icons=true&theme=tokyonight&cache_seconds=3600" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelPCarmo&layout=compact&theme=tokyonight&cache_seconds=3600" width="350" />
-</p>
+
+[![](https://raw.githubusercontent.com/RaphaelPCarmo/RaphaelPCarmo/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/RaphaelPCarmo/RaphaelPCarmo/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/RaphaelPCarmo/RaphaelPCarmo/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/RaphaelPCarmo/RaphaelPCarmo/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/RaphaelPCarmo/RaphaelPCarmo/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 📫 Let's Connect!
 <table align="center" border="0" cellspacing="0" cellpadding="6">
