@@ -35,10 +35,10 @@ Computer Science student (5th semester) with a focus on Java Back-End developmen
 </p>
 
 ## 📈 Performance (GitHub Stats)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelPCarmo&show_icons=true&cache_seconds=7200" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelPCarmo&layout=compact&cache_seconds=7200" width="350" />
-</p>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=RaphaelPCarmo&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelPCarmo&layout=compact&theme=tokyonight)
+
 
 ## 📫 Let's Connect!
 <table align="center" border="0" cellspacing="0" cellpadding="6">
