@@ -22,7 +22,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: RaphaelPCarmo
-          THEME: tokyo-night
+          THEME: aura_dark
 
       - name: Commit and push
         run: |
