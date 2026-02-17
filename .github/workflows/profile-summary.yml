@@ -2,14 +2,20 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # todo dia (03:00 UTC)
+    - cron: "0 3 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
 
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
@@ -20,8 +26,8 @@ jobs:
 
       - name: Commit and push
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "Update summary cards" || exit 0
           git push
