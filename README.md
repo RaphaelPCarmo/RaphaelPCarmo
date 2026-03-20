@@ -9,7 +9,11 @@
 
 ## 🎓 About Me
 <p align="justify">
-Computer Science student (5th semester) with a focus on Java Back-End development. I build practical projects applying Object-Oriented Programming (OOP), Spring Boot, and development best practices, always aiming for continuous technical growth.
+Computer Science student focused on Java Back-End development. Strong foundation in Object-Oriented Programming (OOP), with hands-on experience building practical projects using Spring Boot and applying clean code and development best practices.
+
+Experience with Git/GitHub, basic cloud concepts (AWS), and Linux environments. Solid understanding of core programming concepts, problem-solving, and system design fundamentals.
+
+Fast learner, consistent, and focused on continuous technical growth, aiming to build scalable, maintainable, and efficient solutions.
 </p>
 
 ## ☕ Skills & Technologies
