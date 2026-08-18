@@ -9,11 +9,11 @@
 
 ## 🎓 About Me
 <p align="justify">
-Computer Science student focused on Java Back-End development. Strong foundation in Object-Oriented Programming (OOP), with hands-on experience building practical projects using Spring Boot and applying clean code and development best practices.
-  
-Experience with Git/GitHub, basic cloud concepts (AWS), and Linux environments. Solid understanding of core programming concepts, problem-solving, and system design fundamentals.
+Computer Science student and Software Developer focused on Back-End development, with a strong foundation in Object-Oriented Programming (OOP), software engineering fundamentals, and problem-solving.
 
-Fast learner, consistent, and focused on continuous technical growth, aiming to build scalable, maintainable, and efficient solutions.
+Hands-on experience with <strong>Java, Spring Boot, Python, REST APIs, SQL, Git/GitHub, Docker, and AWS</strong>, developing practical projects and applying clean code, maintainability, and development best practices.
+
+Currently focused on deepening my knowledge of <strong>Back-End development, software architecture, cloud computing, databases, and scalable systems</strong>, while continuously improving my technical skills through hands-on projects and real-world experience.
 </p>
 
 ## ☕ Skills & Technologies
