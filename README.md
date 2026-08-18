@@ -22,10 +22,6 @@
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=raphaelpcarmo&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=raphaelpcarmo&theme=github-dark" alt="raphaelpcarmo social links" /></picture>
-</p>
-
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raphaelpcarmo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-perim-do-carmo-512166315/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaelperim.123@gmail.com)
