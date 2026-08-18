@@ -1,12 +1,10 @@
 <p align="center">
   💻 <strong>Software Developer</strong> &nbsp;|&nbsp;
-  ⚛️ <strong>React.js</strong> &nbsp;|&nbsp;
   🟩 <strong>Node.js</strong> &nbsp;|&nbsp;
-  📘 <strong>TypeScript</strong> &nbsp;|&nbsp;
+  🐍 <strong>Python</strong> &nbsp;|&nbsp;
   ☕ <strong>Java & Spring Boot</strong> &nbsp;|&nbsp;
   🗄️ <strong>MySQL</strong> &nbsp;|&nbsp;
   ☁️ <strong>AWS</strong> &nbsp;|&nbsp;
-  🐳 <strong>Docker</strong>
 </p>
 
 ## 🎓 About Me
@@ -38,11 +36,7 @@ Fast learner, consistent, and focused on continuous technical growth, aiming to 
   <a href="#"><img src="https://skillicons.dev/icons?i=javascript&theme=light" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=git&theme=light" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=github&theme=light" height="70"/></a>
-  
 </p>
-## 📈 Performance (GitHub Stats)
-[![](https://raw.githubusercontent.com/RaphaelPCarmo/RaphaelPCarmo/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/RaphaelPCarmo/RaphaelPCarmo/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/RaphaelPCarmo/RaphaelPCarmo/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 📫 Let's Connect!
 <table align="center" border="0" cellspacing="0" cellpadding="6">
