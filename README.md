@@ -1,4 +1,5 @@
 <p align="center">
+  
   💻 <strong>Software Developer</strong> &nbsp;|&nbsp;
   🟩 <strong>Node.js</strong> &nbsp;|&nbsp;
   🐍 <strong>Python</strong> &nbsp;|&nbsp;
@@ -8,6 +9,7 @@
 </p>
 
 ## 🎓 About Me
+
 <p align="justify">
 Computer Science student and Software Developer focused on Back-End development, with a strong foundation in Object-Oriented Programming (OOP), software engineering fundamentals, and problem-solving.
 
@@ -17,28 +19,15 @@ Currently focused on deepening my knowledge of <strong>Back-End development, sof
 </p>
 
 ## ☕ Skills & Technologies
+
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=java&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=spring&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=hibernate&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=python&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=postgresql&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=aws&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=kubernetes&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linux&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=postman&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=html&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=css&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=javascript&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=git&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github&theme=light" height="70"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,nodejs,mysql,postgres,mongodb,git,github,docker,aws,postman&theme=dark&perline=7" />
+  </a>
 </p>
 
 ## 📫 Let's Connect!
+
 <table align="center" border="0" cellspacing="0" cellpadding="6">
   <tr>
     <td align="center" style="border: none;">
